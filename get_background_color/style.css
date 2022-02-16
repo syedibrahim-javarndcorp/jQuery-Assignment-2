@@ -1,0 +1,19 @@
+.common{
+    cursor: pointer;
+    height: 100px;
+    width: 100px;
+    margin: 10px;
+    display: inline-block;
+}
+.a{
+    background-color: #6601c5;
+}
+.b{
+    background-color: #01c50b;
+}
+.c{
+    background-color: #ffe033;
+}
+.d{
+    background-color: #f32424;
+}
