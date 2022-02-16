@@ -1,0 +1,13 @@
+.title{
+    text-align: center;
+    font-size: xx-large;
+    font-weight: bolder;
+    font-family: cursive;
+}
+
+.output{
+    text-align: center;
+    font-size: xx-large;
+    font-weight: bolder;
+    margin: 20px;
+}
