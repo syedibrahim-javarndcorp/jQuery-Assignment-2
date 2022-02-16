@@ -1,4 +1,2 @@
-$(".a").on("mouseover", function () {
-  let pos = $(".a").getBoundingClientRect();
-  $(".output").html("X : " + pos.x + "Y : " + pos.y);
-});
+var pos = $(".a").position();
+$(".output").html(pos.left +" in Left and "+ pos.top + " in Top")
