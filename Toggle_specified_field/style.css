@@ -1,0 +1,10 @@
+h1,
+p {
+  margin: 5px;
+  font-size: 15px;
+  cursor: pointer;
+}
+
+.toggle {
+  background: #3bd648;
+}

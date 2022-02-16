@@ -1,0 +1,1 @@
+$(".out").text("The left & top offset of the Paragraph are:"+$(".off").offset().left+',' +$(".off").offset().top)
