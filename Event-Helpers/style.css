@@ -1,0 +1,10 @@
+.common{
+    text-align: center;
+    font-family: cursive;
+    font-weight: bold;
+    font-size: 2rem;
+    margin: 20px;
+}
+.myClass{
+    color: red;
+}
