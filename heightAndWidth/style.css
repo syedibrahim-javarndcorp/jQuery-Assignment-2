@@ -1,0 +1,10 @@
+h1{
+    text-align: center;
+}
+.box{
+    background-color: aqua;
+    border: black 1px solid;
+    margin: 10px;
+    height: 100px;
+    width: 100px;
+}
